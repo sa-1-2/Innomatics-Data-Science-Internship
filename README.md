@@ -1,2 +1,2 @@
-# Innomatics-Data-Science-Internship
+# Innomatics-Data-Science-hackathon
 Internship hackathon 
